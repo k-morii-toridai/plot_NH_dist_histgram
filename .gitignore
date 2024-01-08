@@ -1,0 +1,12 @@
+#ignore .ipynb_checkpoints/
+.ipynb_checkpoints
+
+#ignore .ipynb
+*.ipynb
+
+#ignore .npy
+*.npy
+
+#ignore sample_test_files/
+sample_test_files/
+

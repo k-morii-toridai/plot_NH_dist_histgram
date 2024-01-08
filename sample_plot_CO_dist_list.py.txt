@@ -1,0 +1,3 @@
+#Usage
+#python3 plot_CO_dist_list.py <figsize>
+python3 plot_CO_dist_list.py 5
